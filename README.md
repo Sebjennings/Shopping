@@ -1,3 +1,3 @@
-# Shopping
+# Zoe and Nish's Bday Bash!
 
-Here you can find various shopping items
+Contained in this file is the shopping list for the party of the century.
