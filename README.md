@@ -1,5 +1,6 @@
-# Shopping
+# Zoe and Nish's Bday Bash!
 
+<<<<<<< HEAD
 Here you can find various shopping items
 
 
@@ -152,3 +153,6 @@ $ git branch -d seb^C
 
 casje@DESKTOP-3PO00QU MINGW64 ~/Documents/gitbash/shopping (main)
 $
+=======
+Contained in this file is the shopping list for the party of the century.
+>>>>>>> bae11088af11741eb5b3f385e60e00a0957085fa
